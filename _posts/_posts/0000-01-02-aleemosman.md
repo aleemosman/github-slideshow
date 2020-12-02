@@ -2,6 +2,6 @@ layout: slide
 
 title: Welcome to the new slide!
 
-This is an edit
+The typos of this file needs correction!
 
 Use the left arrow to go back!
